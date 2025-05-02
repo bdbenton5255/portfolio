@@ -1,1 +1,1 @@
-Basic portfolio project using Django and Bootstrap
+Basic portfolio project using Django and Bootstrap.
