@@ -129,3 +129,5 @@ MEDIA_ROOT = BASE_DIR / "uploads/"
 MEDIA_URL = "/media/"
 
 STATIC_URL = "static/"
+
+ALLOWED_HOSTS = ['portfolio-8nkh.onrender.com']
