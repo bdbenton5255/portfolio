@@ -130,4 +130,4 @@ MEDIA_URL = "/media/"
 
 STATIC_URL = "static/"
 
-ALLOWED_HOSTS = ['portfolio-8nkh.onrender.com']
+ALLOWED_HOSTS = ['portfolio-8nkh.onrender.com', '127.0.0.1']
